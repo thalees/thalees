@@ -13,7 +13,6 @@
 </p>
 
 <details align="center">
-
   <summary>
     <b>
       <samp>
@@ -21,6 +20,7 @@
       </samp>
     </b>
   </summary>
+  <br>
   <samp>
     <p align="center">
       <img title="Kotlin" src="https://user-images.githubusercontent.com/40672950/88488535-25700900-cf64-11ea-805d-9e902c3d4924.png" width="40">
@@ -30,7 +30,7 @@
       <img title="Typescript" src="https://user-images.githubusercontent.com/40672950/88488335-f6a56300-cf62-11ea-9367-4dfe2060e09b.png" width="45">
       <img title="Reactjs" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
       <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-      <img title="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+      <img title="Kafka" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kafka-logo.png" width="90" height="40" />
     </p>
   </samp>
 </details>
