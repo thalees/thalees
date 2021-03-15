@@ -30,7 +30,7 @@
       <img title="Typescript" src="https://user-images.githubusercontent.com/40672950/88488335-f6a56300-cf62-11ea-9367-4dfe2060e09b.png" width="45">
       <img title="Reactjs" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
       <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-      <img title="Kafka" src="https://cdn.freelogovectors.net/wp-content/uploads/2018/11/kafka-logo.png" width="90" height="40" />
+      <img title="Kafka" src="https://user-images.githubusercontent.com/40672950/111212976-0c799e00-85af-11eb-8e38-a4a74e91768c.png" width="90" height="50" />
     </p>
   </samp>
 </details>
