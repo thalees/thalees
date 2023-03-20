@@ -4,7 +4,7 @@
   <samp>Hi there! I'm Thales.</samp>
   <br>
   <samp>
-    I'm a Computer Engineering Undergraduate Student and Software Developer at <b><a href="https://www.c6bank.com.br/">C6 Bank</a></b>.
+    I'm a Senior Software Engineer at <b><a href="https://www.c6bank.com.br/">C6 Bank</a></b>.
   </samp>
   <br><br>
   <samp>
