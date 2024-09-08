@@ -4,7 +4,7 @@
   <samp>Hi there! I'm Thales.</samp>
   <br>
   <samp>
-    I'm a Senior Software Engineer at <b><a href="https://www.c6bank.com.br/">C6 Bank</a></b>.
+    I'm a Senior Software Engineer at <b><a href="https://www.brex.com/">Brex</a></b>.
   </samp>
   <br><br>
   <samp>
@@ -30,8 +30,9 @@
       <img title="Typescript" src="https://user-images.githubusercontent.com/40672950/88488335-f6a56300-cf62-11ea-9367-4dfe2060e09b.png" width="45">
       <img title="Reactjs" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
       <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-      <img title="Kafka" src="https://user-images.githubusercontent.com/40672950/111212976-0c799e00-85af-11eb-8e38-a4a74e91768c.png" width="90" height="50" />
+      <img title="Kafka" src="https://github.com/user-attachments/assets/18b02d8e-14c5-4238-b783-cfa32fc9c52f" width="90" height="50" />
     </p>
+
   </samp>
 </details>
 
@@ -43,12 +44,3 @@
 <p align="center">
   <samp>Check out my repos </samp> ⬇️
 </p>
-
-<!--
-<a href= "https://dev.to/ari_hacks">
-  <img alt="Thales's Dev" src="https://img.icons8.com/windows/32/000000/dev.png"/>
-</a>
-<a href= "https://twitter.com/ari_hacks">
-  <img alt="Thales's Medium" src="https://img.icons8.com/material-outlined/30/000000/medium.png"/>
-</a>
--->
